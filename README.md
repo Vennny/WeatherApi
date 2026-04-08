@@ -15,3 +15,4 @@ docker compose exec app composer install
 docker compose exec app php artisan key:generate
 ```
 
+Call POST localhost:8080/api/weather
